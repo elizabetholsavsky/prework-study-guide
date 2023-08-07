@@ -1,4 +1,4 @@
-# Prework Study Guide Webpage
+# Boot Canp Prework Study Guide
 https://elizabetholsavsky.github.io/prework-study-guide/
 
 ## Description
