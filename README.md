@@ -1,4 +1,4 @@
-# Boot Canp Prework Study Guide
+# Boot Camp Prework Study Guide
 https://elizabetholsavsky.github.io/prework-study-guide/
 
 ## Description
