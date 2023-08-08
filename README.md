@@ -1,5 +1,9 @@
-# Boot Camp Prework Study Guide
-https://elizabetholsavsky.github.io/prework-study-guide/
+<div align="center">
+  
+  # Boot Camp Prework Study Guide
+  https://elizabetholsavsky.github.io/prework-study-guide/
+
+</div>
 
 ## Description
 
